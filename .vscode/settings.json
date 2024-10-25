@@ -1,0 +1,84 @@
+{
+    "editor.tokenColorCustomizations": {
+        "[Pitch Black]": {
+            "textMateRules": [
+                {
+                    "scope": "comment",
+                    "settings": {
+                        "foreground": "#565f89"
+                    }
+                },
+                {
+                    "scope": "string",
+                    "settings": {
+                        "foreground": "#9ece6a"
+                    }
+                },
+                {
+                    "scope": "keyword",
+                    "settings": {
+                        "foreground": "#bb9af7"
+                    }
+                },
+                {
+                    "scope": "variable",
+                    "settings": {
+                        "foreground": "#bdc7f3"
+                    }
+                },
+                {
+                    "scope": "constant.numeric",
+                    "settings": {
+                        "foreground": "#ff9e64"
+                    }
+                },
+                {
+                    "scope": "entity.name.function",
+                    "settings": {
+                        "foreground": "#ebf77a"
+                    }
+                },
+                {
+                    "scope": "entity.name.type",
+                    "settings": {
+                        "foreground": "#e8721f"
+                    }
+                },
+                {
+                    "scope": "storage.type",
+                    "settings": {
+                        "foreground": "#ff9e64"
+                    }
+                },
+                {
+                    "scope": "keyword.control",
+                    "settings": {
+                        "foreground": "#42f7d6"
+                    }
+                },
+                {
+                    "scope": "entity.name.tag",
+                    "settings": {
+                        "foreground": "#fc6fe9"
+                    }
+                },
+                {
+                    "scope": "markup.underline",
+                    "settings": {
+                        "foreground": "#ff79c6",
+                        "fontStyle": "underline"
+                    }
+                },
+                {
+                    "scope": "markup.italic",
+                    "settings": {
+                        "foreground": "#8be9fd",
+                        "fontStyle": "italic"
+                    }
+                }
+            ]
+        },
+        "comments": "",
+        "textMateRules": []
+    }
+}
